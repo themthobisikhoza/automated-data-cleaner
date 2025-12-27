@@ -53,5 +53,5 @@ A **Python Streamlit app** for preprocessing, cleaning, and transforming dataset
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/automatic-data-cleaner.git
+   git clone https://github.com/themthobisikhoza/automatic-data-cleaner.git
    cd automatic-data-cleaner
